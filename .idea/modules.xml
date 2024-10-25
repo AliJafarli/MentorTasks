@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MentorTasks.iml" filepath="$PROJECT_DIR$/MentorTasks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Perimetr/Perimetr.iml" filepath="$PROJECT_DIR$/Perimetr/Perimetr.iml" />
     </modules>
   </component>
 </project>
