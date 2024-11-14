@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="386a5aff-f75d-4dd1-b3a6-daabd2b79cc2" name="Changes" comment="++">
-      <change beforePath="$PROJECT_DIR$/Separate the Digits in an Array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Separate the Digits in an Array/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
