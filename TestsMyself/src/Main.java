@@ -9,7 +9,7 @@ public class Main {
                 max = arr[i];
             }
         }
-        int[] arr2 = new int[max + 1];
+         int[] arr2 = new int[max + 1];
 
         for (int i = 0; i < arr.length; i++) {
             arr2[arr[i]]++;
