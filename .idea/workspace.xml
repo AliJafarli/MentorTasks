@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="386a5aff-f75d-4dd1-b3a6-daabd2b79cc2" name="Changes" comment="+">
-      <change afterPath="$PROJECT_DIR$/ExTask/ExTask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExTask/src/Print.java" afterDir="false" />
+    <list default="true" id="386a5aff-f75d-4dd1-b3a6-daabd2b79cc2" name="Changes" comment="task">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomList/Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diaqonal/Diaqonal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerrankPlus-minus/HackerrankPlus-minus.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diaqonal/src/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Diaqonal/src/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerrankPlus-minus/src/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerrankPlus-minus/src/Result.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +50,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -168,13 +172,48 @@
       <option name="project" value="LOCAL" />
       <updated>1732027044093</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="+">
+      <option name="closed" value="true" />
+      <created>1732028319086</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732028319086</updated>
+    </task>
+    <task id="LOCAL-00015" summary="task plus-minus">
+      <option name="closed" value="true" />
+      <created>1732190326733</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732190326733</updated>
+    </task>
+    <task id="LOCAL-00016" summary="task Diaqonal">
+      <option name="closed" value="true" />
+      <created>1732194475748</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1732194475748</updated>
+    </task>
+    <task id="LOCAL-00017" summary="task">
+      <option name="closed" value="true" />
+      <created>1732197386350</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1732197386350</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+ UserValidation.java" />
     <MESSAGE value="++" />
     <MESSAGE value="+" />
-    <option name="LAST_COMMIT_MESSAGE" value="+" />
+    <MESSAGE value="task plus-minus" />
+    <MESSAGE value="task Diaqonal" />
+    <MESSAGE value="task" />
+    <option name="LAST_COMMIT_MESSAGE" value="task" />
   </component>
 </project>
