@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/04.12.24/04.12.24.iml" filepath="$PROJECT_DIR$/04.12.24/04.12.24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/202. Happy Number/202. Happy Number.iml" filepath="$PROJECT_DIR$/202. Happy Number/202. Happy Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/3aPlus 1/3aPlus 1.iml" filepath="$PROJECT_DIR$/3aPlus 1/3aPlus 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/4726/4726.iml" filepath="$PROJECT_DIR$/4726/4726.iml" />
       <module fileurl="file://$PROJECT_DIR$/4727/4727.iml" filepath="$PROJECT_DIR$/4727/4727.iml" />
@@ -11,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExTask/ExTask.iml" filepath="$PROJECT_DIR$/ExTask/ExTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionTask/ExceptionTask.iml" filepath="$PROJECT_DIR$/ExceptionTask/ExceptionTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerrankPlus-minus/HackerrankPlus-minus.iml" filepath="$PROJECT_DIR$/HackerrankPlus-minus/HackerrankPlus-minus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/MentorTasks.iml" filepath="$PROJECT_DIR$/MentorTasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Separate the Digits in an Array/Separate the Digits in an Array.iml" filepath="$PROJECT_DIR$/Separate the Digits in an Array/Separate the Digits in an Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomList/Task.iml" filepath="$PROJECT_DIR$/CustomList/Task.iml" />
@@ -18,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/TaskAq/TaskAq.iml" filepath="$PROJECT_DIR$/TaskAq/TaskAq.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestsMyself/TestsMyself.iml" filepath="$PROJECT_DIR$/TestsMyself/TestsMyself.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isLetterRepeat/isLetterRepeat.iml" filepath="$PROJECT_DIR$/isLetterRepeat/isLetterRepeat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitledTask29.11.24/untitledTask29.11.24.iml" filepath="$PROJECT_DIR$/untitledTask29.11.24/untitledTask29.11.24.iml" />
     </modules>
   </component>
 </project>

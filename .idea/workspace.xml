@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="386a5aff-f75d-4dd1-b3a6-daabd2b79cc2" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/TaskAq/TaskAq.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaskAq/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaskAq/src/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaskAq/src/Validation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.12.24/04.12.24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.12.24/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaskAq/src/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaskAq/src/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaskAq/src/TaskValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaskAq/src/UserTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaskAq/src/UserValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitledTask29.11.24/untitledTask29.11.24.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAq/src/Validation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -234,7 +241,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732625548999</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="task">
+      <option name="closed" value="true" />
+      <created>1732633131173</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1732633131173</updated>
+    </task>
+    <task id="LOCAL-00023" summary="task">
+      <option name="closed" value="true" />
+      <created>1732891404872</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1732891404872</updated>
+    </task>
+    <task id="LOCAL-00024" summary="task">
+      <option name="closed" value="true" />
+      <created>1733234603344</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1733234603344</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
